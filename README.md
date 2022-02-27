@@ -54,4 +54,6 @@ Project is still in progess as of 7/1/2020.
 ## Inspiration
 This project is courtesy of Dr. Farach-Carson's UT-Health Research Laboratory.
 ## Contact
-Created by Duncan Salmon. I am a EE graduating from Rice University in 2021 - feel free to contact me at drs3@rice.edu!
+Dr. Caitlin McCowan, PhD is the lead author of this work. You can contact her at cvm1@rice.edu or cvmccowan@gmail.com.
+
+For programming and other related questions, please contact Duncan Salmon. I am a EE graduating from Rice University in 2021 - feel free to contact me at drs3@rice.edu!
